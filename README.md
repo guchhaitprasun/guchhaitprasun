@@ -6,18 +6,18 @@ I am from India and an Engineer by profession. I really enjoy learning languages
 Full Stack Web Developer Specialised in both front end and backend. I also love to build balance and harmony throughout my development by focusing on attention to every single details.
 
 ### Languages and Tools 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/javascript.svg' alt='javascript' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/typescript.svg' alt='typescript' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/jquery.svg' alt='jquery' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/html5.svg' alt='html' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/css3.svg' alt='css' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/npm.svg' alt='npm' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/angular.svg' alt='angular' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/dot-net.svg' alt='dotnet' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/csharp.svg' alt='C sharp' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/microsoftsqlserver.svg' alt='sql server' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/visualstudiocode.svg' alt='vscode' height='22'>]()&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/visualstudio.svg' alt='visual studio' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/JavaScript.svg' alt='javascript' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/TypeScript.svg' alt='typescript' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/jQuery.svg' alt='jquery' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/html5.svg' alt='html' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/css3.svg' alt='css' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/npm.svg' alt='npm' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/angular.svg' alt='angular' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/dotnet.svg' alt='dotnet' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/csharp.svg' alt='C sharp' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/SQLServer.svg' alt='sql server' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/vscode.svg' alt='vscode' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/vs.svg' alt='visual studio' height='22'>]()&nbsp;&nbsp;
 
 
 ### How to reach me
