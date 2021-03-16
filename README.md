@@ -6,18 +6,22 @@ I am from India and an Engineer by profession. I really enjoy learning languages
 Full Stack Web Developer Specialised in both front end and backend. I also love to build balance and harmony throughout my development by focusing on attention to every single details.
 
 ### Languages and Tools 
-[<img src='IconPack/JavaScript.svg' alt='javascript' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/TypeScript.svg' alt='typescript' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/jQuery.svg' alt='jquery' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/html5.svg' alt='html' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/css3.svg' alt='css' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/npm.svg' alt='npm' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/angular.svg' alt='angular' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/dotnet.svg' alt='dotnet' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/csharp.svg' alt='C sharp' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/SQLServer.svg' alt='sql server' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/vscode.svg' alt='vscode' height='22'>]()&nbsp;&nbsp;
-[<img src='IconPack/vs.svg' alt='visual studio' height='22'>]()&nbsp;&nbsp;
+[<img src='IconPack/csharp.svg' alt='C sharp' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/html5.svg' alt='html' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/css3.svg' alt='css' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/JavaScript.svg' alt='javascript' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/TypeScript.svg' alt='typescript' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/jQuery.svg' alt='jquery' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/SQLServer.svg' alt='sql server' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/npm.svg' alt='npm' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/angular.svg' alt='angular' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/dotnet.svg' alt='dotnet' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/vscode.svg' alt='vscode' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/vs.svg' alt='visual studio' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/notepadplusplus.svg' alt='NotePad ++' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/git.svg' alt='git' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/docker.svg' alt='docker' height='20'>]()&nbsp;&nbsp;
+
 
 
 ### How to reach me
