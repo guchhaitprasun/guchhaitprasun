@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Prasun Guchhait
-<hr>
+I am from India and an Engineer by profession. I really enjoy learning languages and frameworks like JavaScript, Angular as well as work in .Net and .Net Core
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/guchhaitprasun)&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/iamprasunguchhait//) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='22'>](https://www.facebook.com/bubu.prasun.861997.guchhait) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='22'>](https://www.instagram.com/prasunguchhait) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/guchhaitprasun) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](https://www.google.com)  
 
-I am from India and an Engineer by profession. I really enjoy learning languages and frameworks like JavaScript, Angular as well as work in .Net and .Net Core
 
 <!--
 **guchhaitprasun/guchhaitprasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
