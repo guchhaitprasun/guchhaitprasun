@@ -6,21 +6,23 @@ I am from India and an Engineer by profession. I really enjoy learning languages
 Full Stack Web Developer Specialised in both front end and backend. I also love to build balance and harmony throughout my development by focusing on attention to every single details.
 
 ### Languages and Tools 
-[<img src='IconPack/csharp.svg' alt='C sharp' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/html5.svg' alt='html' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/css3.svg' alt='css' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/JavaScript.svg' alt='javascript' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/TypeScript.svg' alt='typescript' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/jQuery.svg' alt='jquery' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/SQLServer.svg' alt='sql server' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/npm.svg' alt='npm' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/angular.svg' alt='angular' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/dotnet.svg' alt='dotnet' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/vscode.svg' alt='vscode' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/vs.svg' alt='visual studio' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/notepadplusplus.svg' alt='NotePad ++' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/git.svg' alt='git' height='20'>]()&nbsp;&nbsp;
-[<img src='IconPack/docker.svg' alt='docker' height='20'>]()&nbsp;&nbsp;
+[<img src='IconPack/csharp.svg' alt='C sharp' height='20'>](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;
+[<img src='IconPack/html5.svg' alt='html' height='20'>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
+[<img src='IconPack/css3.svg' alt='css' height='20'>](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
+[<img src='IconPack/JavaScript.svg' alt='javascript' height='20'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src='IconPack/TypeScript.svg' alt='typescript' height='20'>](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[<img src='IconPack/jQuery.svg' alt='jquery' height='20'>](https://jquery.com/)&nbsp;&nbsp;
+[<img src='IconPack/SQLServer.svg' alt='sql server' height='20'>](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-2016)&nbsp;&nbsp;
+[<img src='IconPack/npm.svg' alt='npm' height='20'>](https://www.npmjs.com/)&nbsp;&nbsp;
+[<img src='IconPack/angular.svg' alt='angular' height='20'>](https://angular.io/)&nbsp;&nbsp;
+[<img src='IconPack/dotnet.svg' alt='dotnet' height='20'>](https://docs.microsoft.com/en-us/dotnet/)&nbsp;&nbsp;
+[<img src='IconPack/vscode.svg' alt='vscode' height='20'>](https://code.visualstudio.com/docs)&nbsp;&nbsp;
+[<img src='IconPack/vs.svg' alt='visual studio' height='20'>](https://visualstudio.microsoft.com/)&nbsp;&nbsp;
+[<img src='IconPack/notepadplusplus.svg' alt='NotePad ++' height='20'>](https://notepad-plus-plus.org/)&nbsp;&nbsp;
+[<img src='IconPack/git.svg' alt='git' height='20'>](https://git-scm.com/)&nbsp;&nbsp;
+[<img src='IconPack/docker.svg' alt='docker' height='20'>](https://www.docker.com/)&nbsp;&nbsp;
+[<img src='IconPack/NET_Core_Logo.svg' alt='NET_Core' height='20'>](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)&nbsp;&nbsp;
+
 
 
 
