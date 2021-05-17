@@ -1,9 +1,9 @@
 ## Hi there 👋, my name is Prasun Guchhait 
 - 😄 Pronouns: _(p-r-uh-s-oo-n)_
 
-I am from India and an Engineer by profession. I really enjoy learning languages and frameworks like JavaScript, Angular as well as work in .Net and .Net Core. I have evolved into a Full Stack Web developer, and enjoy working with mordern tools and technologies to acheive breakthrough. 
+I am from India and an Engineer by profession. I really enjoy learning languages and frameworks like JavaScript, Angular, and work in .Net and .Net Core. I have evolved into a Full Stack Web developer, and enjoy working with modern tools and technologies to achieve a breakthrough.
 
-Full Stack Web Developer Specialised in both front end and backend. I also love to build balance and harmony throughout my development by focusing on attention to every single details.
+Full Stack Web Developer Specialised in both front end and backend. I also love building balance and harmony throughout my development by focusing on attention to possibly every detail.
 
 ### Languages and Tools 
 [<img src='IconPack/csharp.svg' alt='C sharp' height='20'>](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#")&nbsp;&nbsp;
