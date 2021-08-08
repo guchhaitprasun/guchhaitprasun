@@ -22,6 +22,7 @@ Full Stack Web Developer Specialised in both front end and backend. I also love 
 [<img src='IconPack/git.svg' alt='git' height='20'>](https://git-scm.com/ "Git")&nbsp;&nbsp;
 [<img src='IconPack/docker.svg' alt='docker' height='20'>](https://www.docker.com/ "Docker")&nbsp;&nbsp;
 [<img src='IconPack/NET_Core_Logo.svg' alt='NET_Core' height='20'>](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0 ".NET CORE")&nbsp;&nbsp;
+[<img src='IconPack/jenkins.svg' alt='Jenkins' height='20'>](https://www.jenkins.io/ "Jenkins")&nbsp;&nbsp;
 
 
 
